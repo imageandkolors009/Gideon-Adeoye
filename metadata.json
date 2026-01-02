@@ -1,0 +1,7 @@
+{
+  "name": "Focus2026: Gideon's Strategic Roadmap",
+  "description": "A high-performance personal strategic dashboard for Gideon Adeoye's 2026 goals, featuring an AI accountability partner powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

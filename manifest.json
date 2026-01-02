@@ -1,0 +1,23 @@
+
+{
+  "name": "Focus2026: Gideon's Strategic Roadmap",
+  "short_name": "Focus26",
+  "description": "High-performance personal strategic dashboard with AI accountability.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1063/1063376.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1063/1063376.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
